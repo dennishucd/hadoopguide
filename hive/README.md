@@ -1,0 +1,3 @@
+# Hive guide
+
+Hive
